@@ -1,9 +1,8 @@
 # Guess the Flag
+Welcome to **Guess the Flag**, a fun and educational program written in Assembly for the emu8086 microprocessor emulator. Test your knowledge of flags while exploring the low-level workings of Assembly language!
+
 <img width="727" alt="splash" src="https://github.com/user-attachments/assets/bcdf3e0a-20d8-4126-9395-908a86a5538f" />
 <img width="726" alt="questioin" src="https://github.com/user-attachments/assets/cb1a148f-4ce0-4b85-9d25-f6edfa459245" />
-
-
-Welcome to **Guess the Flag**, a fun and educational program written in Assembly for the emu8086 microprocessor emulator. Test your knowledge of flags while exploring the low-level workings of Assembly language!
 
 ## Introduction
 This project challenges users to guess the correct country based on its flag. It uses Assembly programming to demonstrate the basics of user input, output, and control flow in a simple yet engaging way.
